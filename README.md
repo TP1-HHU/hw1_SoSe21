@@ -68,7 +68,8 @@ Modify the program ***logmap.cxx*** (which is the solution to the problem to Lab
 
 ## Problem 2
 
-![alt text](stuffy_stuff/bild1.png)
+<img src="stuffy_stuff/bild1.png" width="650">
+
 
 The following C++ code generates *N* normally distributed measurement values:
 
@@ -99,7 +100,7 @@ int main()
 ### Step 1:
 
 Extend the code such that you calculate *m* and *s* from the values contained in the ```samples``` array. Obviously, these values should become more and more similar to *mu* and
-*sigma* as you increas *N*. (Check!) 
+*sigma* as you increase *N*. (Check!) 
 
 ### Step 2:
 
