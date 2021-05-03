@@ -135,4 +135,5 @@ The data can then be visualized in gnuplot via
 gnuplot> plot 'data.txt' smooth freq w boxes 
 ````
 Your plot should then look something like this:
+
 <img src="stuffy_stuff/histogram_demo.png" width="480">
